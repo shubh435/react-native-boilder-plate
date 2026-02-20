@@ -1,0 +1,74 @@
+{
+  "common": {
+    "ok": "ठीक है",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "add": "जोड़ें",
+    "back": "वापस",
+    "next": "अगला",
+    "done": "पूर्ण",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "confirm": "पुष्टि करें",
+    "yes": "हाँ",
+    "no": "नहीं"
+  },
+  "navigation": {
+    "medicines": "दवाइयाँ",
+    "calendar": "कैलेंडर",
+    "analytics": "विश्लेषण",
+    "settings": "सेटिंग्स",
+    "home": "होम",
+    "profile": "प्रोफ़ाइल"
+  },
+  "home": {
+    "title": "डैशबोर्ड",
+    "subtitle": "अपनी दवा सूची ट्रैक करें",
+    "lowStock": "कम स्टॉक वाली दवाइयाँ",
+    "noLowStock": "सभी दवाइयों का स्टॉक अच्छा है",
+    "refill": "फिर से भरें"
+  },
+  "medicines": {
+    "title": "मेरी दवाइयाँ",
+    "addMedicine": "दवा जोड़ें",
+    "editMedicine": "दवा संपादित करें",
+    "deleteMedicine": "दवा हटाएं",
+    "medicineName": "दवा का नाम",
+    "medicineType": "प्रकार",
+    "dose": "खुराक",
+    "frequency": "आवृत्ति",
+    "startDate": "आरंभ तिथि",
+    "endDate": "समाप्ति तिथि"
+  },
+  "calendar": {
+    "title": "कैलेंडर",
+    "today": "आज"
+  },
+  "analytics": {
+    "title": "विश्लेषण",
+    "subtitle": "अपनी दवा पालन ट्रैक करें",
+    "adherenceRate": "पालन दर",
+    "dosesTaken": "ली गई खुराक",
+    "dosesMissed": "छूटी खुराक",
+    "days7": "7 दिन",
+    "days30": "30 दिन",
+    "days90": "90 दिन"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "account": "खाता",
+    "profile": "प्रोफ़ाइल",
+    "notifications": "सूचनाएं",
+    "language": "भाषा",
+    "signOut": "साइन आउट"
+  },
+  "premium": {
+    "title": "प्रीमियम",
+    "upgrade": "प्रीमियम में अपग्रेड करें",
+    "subscribeNow": "अभी सदस्यता लें",
+    "restorePurchases": "खरीदारी पुनर्स्थापित करें"
+  }
+}

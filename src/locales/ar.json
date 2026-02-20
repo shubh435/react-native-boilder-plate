@@ -1,0 +1,74 @@
+{
+  "common": {
+    "ok": "موافق",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "add": "إضافة",
+    "back": "رجوع",
+    "next": "التالي",
+    "done": "تم",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجاح",
+    "confirm": "تأكيد",
+    "yes": "نعم",
+    "no": "لا"
+  },
+  "navigation": {
+    "medicines": "الأدوية",
+    "calendar": "التقويم",
+    "analytics": "التحليلات",
+    "settings": "الإعدادات",
+    "home": "الرئيسية",
+    "profile": "الملف الشخصي"
+  },
+  "home": {
+    "title": "لوحة التحكم",
+    "subtitle": "تتبع مخزون الأدوية الخاص بك",
+    "lowStock": "أدوية منخفضة المخزون",
+    "noLowStock": "جميع الأدوية متوفرة بشكل جيد",
+    "refill": "إعادة التعبئة"
+  },
+  "medicines": {
+    "title": "أدويتي",
+    "addMedicine": "إضافة دواء",
+    "editMedicine": "تعديل الدواء",
+    "deleteMedicine": "حذف الدواء",
+    "medicineName": "اسم الدواء",
+    "medicineType": "النوع",
+    "dose": "الجرعة",
+    "frequency": "التكرار",
+    "startDate": "تاريخ البدء",
+    "endDate": "تاريخ الانتهاء"
+  },
+  "calendar": {
+    "title": "التقويم",
+    "today": "اليوم"
+  },
+  "analytics": {
+    "title": "التحليلات",
+    "subtitle": "تتبع التزامك بالأدوية",
+    "adherenceRate": "معدل الالتزام",
+    "dosesTaken": "الجرعات المأخوذة",
+    "dosesMissed": "الجرعات الفائتة",
+    "days7": "7 أيام",
+    "days30": "30 يوماً",
+    "days90": "90 يوماً"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "account": "الحساب",
+    "profile": "الملف الشخصي",
+    "notifications": "الإشعارات",
+    "language": "اللغة",
+    "signOut": "تسجيل الخروج"
+  },
+  "premium": {
+    "title": "بريميوم",
+    "upgrade": "الترقية إلى بريميوم",
+    "subscribeNow": "اشترك الآن",
+    "restorePurchases": "استعادة المشتريات"
+  }
+}

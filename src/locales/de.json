@@ -1,0 +1,74 @@
+{
+  "common": {
+    "ok": "OK",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "add": "Hinzufügen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "done": "Fertig",
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "confirm": "Bestätigen",
+    "yes": "Ja",
+    "no": "Nein"
+  },
+  "navigation": {
+    "medicines": "Medikamente",
+    "calendar": "Kalender",
+    "analytics": "Analytik",
+    "settings": "Einstellungen",
+    "home": "Startseite",
+    "profile": "Profil"
+  },
+  "home": {
+    "title": "Dashboard",
+    "subtitle": "Verfolgen Sie Ihren Medikamentenbestand",
+    "lowStock": "Medikamente mit niedrigem Bestand",
+    "noLowStock": "Alle Medikamente sind gut auf Lager",
+    "refill": "Nachfüllen"
+  },
+  "medicines": {
+    "title": "Meine Medikamente",
+    "addMedicine": "Medikament hinzufügen",
+    "editMedicine": "Medikament bearbeiten",
+    "deleteMedicine": "Medikament löschen",
+    "medicineName": "Medikamentenname",
+    "medicineType": "Typ",
+    "dose": "Dosis",
+    "frequency": "Häufigkeit",
+    "startDate": "Startdatum",
+    "endDate": "Enddatum"
+  },
+  "calendar": {
+    "title": "Kalender",
+    "today": "Heute"
+  },
+  "analytics": {
+    "title": "Analytik",
+    "subtitle": "Verfolgen Sie Ihre Medikamenteneinhaltung",
+    "adherenceRate": "Einhaltungsrate",
+    "dosesTaken": "Eingenommene Dosen",
+    "dosesMissed": "Verpasste Dosen",
+    "days7": "7 Tage",
+    "days30": "30 Tage",
+    "days90": "90 Tage"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "account": "Konto",
+    "profile": "Profil",
+    "notifications": "Benachrichtigungen",
+    "language": "Sprache",
+    "signOut": "Abmelden"
+  },
+  "premium": {
+    "title": "Premium",
+    "upgrade": "Auf Premium upgraden",
+    "subscribeNow": "Jetzt abonnieren",
+    "restorePurchases": "Käufe wiederherstellen"
+  }
+}
